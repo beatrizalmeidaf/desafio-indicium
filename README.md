@@ -1,7 +1,9 @@
 # Desafio Técnico - Cientista de Dados 🚀  
 **Programa Lighthouse - Indicium**
 
-<img src="https://github.com/user-attachments/assets/62657d67-9077-4327-9ef0-fb1e899b406c" alt="Image" width="200"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c8b636a6-9475-4ddb-8bd9-f9f80da3c424" alt="Image" width="400"/>
+</div>
   
 ## Contexto  
 Você foi alocado(a) em um time da Indicium que está colaborando com um cliente no desenvolvimento de uma plataforma de aluguéis temporários na cidade de Nova York. O objetivo do cliente é estruturar uma estratégia de precificação baseada em análises dos dados de um grande concorrente.  
