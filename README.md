@@ -59,11 +59,20 @@ pip install -r requirements.txt
 ---
 
 ## Ferramentas Utilizadas  
+
 - **Linguagem:** Python  
 - **Principais bibliotecas:**  
-  - `pandas`
-  - `numpy` 
-  - `matplotlib`
-  - `seaborn` 
-  - `scikit-learn`
+  - pandas  
+  - numpy  
+  - matplotlib  
+  - seaborn  
+  - scikit-learn  
+  - statistics  
+  - category_encoders  
+  - folium  
+  - sys  
+  - os  
+  - import_ipynb  
+
+
  
