@@ -50,8 +50,8 @@ pip install -r requirements.txt
 📂 desafio-indicium
 ├── 📁 data                # Dados fornecidos para o desafio  
 ├── 📁 models              # Modelos treinados e scripts relacionados  
-├── 📄 main.ipynb           # Jupyter notebook com a análise exploratória e modelagem  
-├── 📄 README.md           # Documentação do projeto (este arquivo)  
+├── 📄 main.ipynb          # Jupyter notebook com a análise exploratória e modelagem  
+├── 📄 README.md           # Documentação do projeto 
 └── 📄 requirements.txt    # Dependências necessárias para execução do projeto  
 ```  
 
