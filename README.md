@@ -50,8 +50,10 @@ pip install -r requirements.txt
 📂 desafio-indicium
 ├── 📁 data                # Dados fornecidos para o desafio  
 ├── 📁 models              # Modelos treinados e scripts relacionados  
-├── 📁 notebooks           # Notebooks para simplificação da main
-├── 📄 main.ipynb          # Jupyter notebook com a análise exploratória e modelagem  
+├── 📁 notebooks           # Notebooks com implementações e códigos auxiliares para a execução principal do projeto
+    ├── 📁 analises        # Notebooks dedicados à análise detalhada das questões e requisitos do desafio
+    ├── 📁 eda             # Notebooks com implementações auxiliares da análise exploratória de dados
+├── 📄 main.ipynb          # Jupyter notebook principal  
 ├── 📄 README.md           # Documentação do projeto 
 └── 📄 requirements.txt    # Dependências necessárias para execução do projeto  
 ```  
@@ -69,9 +71,7 @@ pip install -r requirements.txt
   - scikit-learn  
   - statistics  
   - category_encoders  
-  - folium  
-  - sys  
-  - os  
+  - folium   
   - import_ipynb  
 
 

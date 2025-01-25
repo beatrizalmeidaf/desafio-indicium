@@ -31,13 +31,15 @@ Orange (Intermediário): 66.67%
 
 Bairro: Mount Eden
 Total de imóveis: 6
-Yellow (Bom para aluguel): 33.33%
+Green (Ótimo para aluguel): 16.67%
+Yellow (Bom para aluguel): 16.67%
 Orange (Intermediário): 66.67%
 
 
 Bairro: Highbridge
 Total de imóveis: 27
-Yellow (Bom para aluguel): 33.33%
+Green (Ótimo para aluguel): 7.41%
+Yellow (Bom para aluguel): 25.93%
 Orange (Intermediário): 62.96%
 Red (Menos recomendado): 3.70%
 
@@ -50,7 +52,8 @@ Orange (Intermediário): 66.67%
 
 Bairro: East Elmhurst
 Total de imóveis: 185
-Yellow (Bom para aluguel): 30.27%
+Green (Ótimo para aluguel): 10.27%
+Yellow (Bom para aluguel): 20.00%
 Orange (Intermediário): 64.86%
 Red (Menos recomendado): 4.86%
 
@@ -71,7 +74,8 @@ Red (Menos recomendado): 5.00%
 
 Bairro: Tompkinsville
 Total de imóveis: 42
-Yellow (Bom para aluguel): 28.57%
+Green (Ótimo para aluguel): 14.29%
+Yellow (Bom para aluguel): 14.29%
 Orange (Intermediário): 69.05%
 Red (Menos recomendado): 2.38%
 
@@ -84,13 +88,15 @@ Orange (Intermediário): 71.43%
 
 Bairro: University Heights
 Total de imóveis: 21
-Yellow (Bom para aluguel): 28.57%
+Green (Ótimo para aluguel): 14.29%
+Yellow (Bom para aluguel): 14.29%
 Orange (Intermediário): 71.43%
 
 
 Bairro: Woodlawn
 Total de imóveis: 11
-Yellow (Bom para aluguel): 27.27%
+Green (Ótimo para aluguel): 9.09%
+Yellow (Bom para aluguel): 18.18%
 Orange (Intermediário): 72.73%
 
 
@@ -108,7 +114,8 @@ Orange (Intermediário): 73.33%
 
 Bairro: Manhattan Beach
 Total de imóveis: 8
-Yellow (Bom para aluguel): 25.00%
+Green (Ótimo para aluguel): 12.50%
+Yellow (Bom para aluguel): 12.50%
 Orange (Intermediário): 75.00%
 
 
@@ -120,7 +127,8 @@ Orange (Intermediário): 75.00%
 
 Bairro: Pelham Gardens
 Total de imóveis: 28
-Yellow (Bom para aluguel): 25.00%
+Green (Ótimo para aluguel): 7.14%
+Yellow (Bom para aluguel): 17.86%
 Orange (Intermediário): 67.86%
 Red (Menos recomendado): 7.14%
 
@@ -134,7 +142,8 @@ Red (Menos recomendado): 25.00%
 
 Bairro: St. Albans
 Total de imóveis: 76
-Yellow (Bom para aluguel): 23.68%
+Green (Ótimo para aluguel): 1.32%
+Yellow (Bom para aluguel): 22.37%
 Orange (Intermediário): 61.84%
 Red (Menos recomendado): 14.47%
 
@@ -148,7 +157,8 @@ Red (Menos recomendado): 5.88%
 
 Bairro: Springfield Gardens
 Total de imóveis: 85
-Yellow (Bom para aluguel): 22.35%
+Green (Ótimo para aluguel): 3.53%
+Yellow (Bom para aluguel): 18.82%
 Orange (Intermediário): 71.76%
 Red (Menos recomendado): 5.88%
 
@@ -162,7 +172,8 @@ Red (Menos recomendado): 11.11%
 
 Bairro: Flushing
 Total de imóveis: 426
-Yellow (Bom para aluguel): 22.07%
+Green (Ótimo para aluguel): 1.64%
+Yellow (Bom para aluguel): 20.42%
 Orange (Intermediário): 71.36%
 Red (Menos recomendado): 6.57%
 
@@ -183,7 +194,8 @@ Red (Menos recomendado): 4.17%
 
 Bairro: Corona
 Total de imóveis: 64
-Yellow (Bom para aluguel): 20.31%
+Green (Ótimo para aluguel): 1.56%
+Yellow (Bom para aluguel): 18.75%
 Orange (Intermediário): 78.12%
 Red (Menos recomendado): 1.56%
 
@@ -203,35 +215,40 @@ Red (Menos recomendado): 20.00%
 
 Bairro: Brownsville
 Total de imóveis: 61
-Yellow (Bom para aluguel): 19.67%
+Green (Ótimo para aluguel): 4.92%
+Yellow (Bom para aluguel): 14.75%
 Orange (Intermediário): 78.69%
 Red (Menos recomendado): 1.64%
 
 
 Bairro: Canarsie
 Total de imóveis: 147
-Yellow (Bom para aluguel): 19.05%
+Green (Ótimo para aluguel): 0.68%
+Yellow (Bom para aluguel): 18.37%
 Orange (Intermediário): 72.79%
 Red (Menos recomendado): 8.16%
 
 
 Bairro: Jamaica
 Total de imóveis: 231
-Yellow (Bom para aluguel): 18.61%
+Green (Ótimo para aluguel): 2.60%
+Yellow (Bom para aluguel): 16.02%
 Orange (Intermediário): 76.19%
 Red (Menos recomendado): 5.19%
 
 
 Bairro: Glendale
 Total de imóveis: 54
-Yellow (Bom para aluguel): 18.52%
+Green (Ótimo para aluguel): 3.70%
+Yellow (Bom para aluguel): 14.81%
 Orange (Intermediário): 77.78%
 Red (Menos recomendado): 3.70%
 
 
 Bairro: Stapleton
 Total de imóveis: 27
-Yellow (Bom para aluguel): 18.52%
+Green (Ótimo para aluguel): 3.70%
+Yellow (Bom para aluguel): 14.81%
 Orange (Intermediário): 74.07%
 Red (Menos recomendado): 7.41%
 
@@ -252,7 +269,8 @@ Red (Menos recomendado): 2.56%
 
 Bairro: Cypress Hills
 Total de imóveis: 135
-Yellow (Bom para aluguel): 17.78%
+Green (Ótimo para aluguel): 0.74%
+Yellow (Bom para aluguel): 17.04%
 Orange (Intermediário): 77.04%
 Red (Menos recomendado): 5.19%
 
@@ -266,14 +284,16 @@ Red (Menos recomendado): 12.50%
 
 Bairro: Woodhaven
 Total de imóveis: 88
-Yellow (Bom para aluguel): 17.05%
+Green (Ótimo para aluguel): 6.82%
+Yellow (Bom para aluguel): 10.23%
 Orange (Intermediário): 81.82%
 Red (Menos recomendado): 1.14%
 
 
 Bairro: Jackson Heights
 Total de imóveis: 186
-Yellow (Bom para aluguel): 16.67%
+Green (Ótimo para aluguel): 1.08%
+Yellow (Bom para aluguel): 15.59%
 Orange (Intermediário): 79.57%
 Red (Menos recomendado): 3.76%
 
@@ -293,7 +313,8 @@ Orange (Intermediário): 83.33%
 
 Bairro: Allerton
 Total de imóveis: 42
-Yellow (Bom para aluguel): 16.67%
+Green (Ótimo para aluguel): 9.52%
+Yellow (Bom para aluguel): 7.14%
 Orange (Intermediário): 78.57%
 Red (Menos recomendado): 4.76%
 
@@ -321,20 +342,23 @@ Red (Menos recomendado): 8.93%
 
 Bairro: Bronxdale
 Total de imóveis: 19
-Yellow (Bom para aluguel): 15.79%
+Green (Ótimo para aluguel): 5.26%
+Yellow (Bom para aluguel): 10.53%
 Orange (Intermediário): 84.21%
 
 
 Bairro: Fresh Meadows
 Total de imóveis: 32
-Yellow (Bom para aluguel): 15.62%
+Green (Ótimo para aluguel): 6.25%
+Yellow (Bom para aluguel): 9.38%
 Orange (Intermediário): 71.88%
 Red (Menos recomendado): 12.50%
 
 
 Bairro: East New York
 Total de imóveis: 218
-Yellow (Bom para aluguel): 15.60%
+Green (Ótimo para aluguel): 1.38%
+Yellow (Bom para aluguel): 14.22%
 Orange (Intermediário): 80.28%
 Red (Menos recomendado): 4.13%
 
@@ -348,7 +372,8 @@ Red (Menos recomendado): 3.85%
 
 Bairro: Schuylerville
 Total de imóveis: 13
-Yellow (Bom para aluguel): 15.38%
+Green (Ótimo para aluguel): 7.69%
+Yellow (Bom para aluguel): 7.69%
 Orange (Intermediário): 84.62%
 
 
@@ -375,7 +400,8 @@ Red (Menos recomendado): 14.29%
 
 Bairro: Arverne
 Total de imóveis: 77
-Yellow (Bom para aluguel): 14.29%
+Green (Ótimo para aluguel): 2.60%
+Yellow (Bom para aluguel): 11.69%
 Orange (Intermediário): 55.84%
 Red (Menos recomendado): 29.87%
 
@@ -396,14 +422,16 @@ Red (Menos recomendado): 14.29%
 
 Bairro: Kingsbridge
 Total de imóveis: 70
-Yellow (Bom para aluguel): 14.29%
+Green (Ótimo para aluguel): 1.43%
+Yellow (Bom para aluguel): 12.86%
 Orange (Intermediário): 84.29%
 Red (Menos recomendado): 1.43%
 
 
 Bairro: Rego Park
 Total de imóveis: 106
-Yellow (Bom para aluguel): 14.15%
+Green (Ótimo para aluguel): 2.83%
+Yellow (Bom para aluguel): 11.32%
 Orange (Intermediário): 78.30%
 Red (Menos recomendado): 7.55%
 
@@ -417,7 +445,8 @@ Red (Menos recomendado): 6.00%
 
 Bairro: Wakefield
 Total de imóveis: 50
-Yellow (Bom para aluguel): 14.00%
+Green (Ótimo para aluguel): 2.00%
+Yellow (Bom para aluguel): 12.00%
 Orange (Intermediário): 78.00%
 Red (Menos recomendado): 8.00%
 
@@ -451,7 +480,7 @@ Red (Menos recomendado): 11.76%
 
 Bairro: Morris Heights
 Total de imóveis: 17
-Yellow (Bom para aluguel): 11.76%
+Green (Ótimo para aluguel): 11.76%
 Orange (Intermediário): 82.35%
 Red (Menos recomendado): 5.88%
 
@@ -472,14 +501,16 @@ Red (Menos recomendado): 3.85%
 
 Bairro: Elmhurst
 Total de imóveis: 237
-Yellow (Bom para aluguel): 11.39%
+Green (Ótimo para aluguel): 1.27%
+Yellow (Bom para aluguel): 10.13%
 Orange (Intermediário): 83.97%
 Red (Menos recomendado): 4.64%
 
 
 Bairro: Sunnyside
 Total de imóveis: 363
-Yellow (Bom para aluguel): 11.29%
+Green (Ótimo para aluguel): 0.28%
+Yellow (Bom para aluguel): 11.02%
 Orange (Intermediário): 85.40%
 Red (Menos recomendado): 3.31%
 
@@ -493,7 +524,8 @@ Red (Menos recomendado): 1.61%
 
 Bairro: Prospect-Lefferts Gardens
 Total de imóveis: 535
-Yellow (Bom para aluguel): 11.21%
+Green (Ótimo para aluguel): 0.93%
+Yellow (Bom para aluguel): 10.28%
 Orange (Intermediário): 81.31%
 Red (Menos recomendado): 7.48%
 
@@ -534,28 +566,32 @@ Red (Menos recomendado): 5.56%
 
 Bairro: Ditmars Steinway
 Total de imóveis: 309
-Yellow (Bom para aluguel): 11.00%
+Green (Ótimo para aluguel): 0.65%
+Yellow (Bom para aluguel): 10.36%
 Orange (Intermediário): 83.50%
 Red (Menos recomendado): 5.50%
 
 
 Bairro: Sheepshead Bay
 Total de imóveis: 164
-Yellow (Bom para aluguel): 10.98%
+Green (Ótimo para aluguel): 2.44%
+Yellow (Bom para aluguel): 8.54%
 Orange (Intermediário): 80.49%
 Red (Menos recomendado): 8.54%
 
 
 Bairro: Kensington
 Total de imóveis: 174
-Yellow (Bom para aluguel): 10.92%
+Green (Ótimo para aluguel): 2.30%
+Yellow (Bom para aluguel): 8.62%
 Orange (Intermediário): 79.89%
 Red (Menos recomendado): 9.20%
 
 
 Bairro: East Harlem
 Total de imóveis: 1117
-Yellow (Bom para aluguel): 10.74%
+Green (Ótimo para aluguel): 0.27%
+Yellow (Bom para aluguel): 10.47%
 Orange (Intermediário): 76.72%
 Red (Menos recomendado): 12.53%
 
@@ -603,14 +639,16 @@ Red (Menos recomendado): 3.64%
 
 Bairro: Harlem
 Total de imóveis: 2658
-Yellow (Bom para aluguel): 9.86%
+Green (Ótimo para aluguel): 0.38%
+Yellow (Bom para aluguel): 9.48%
 Orange (Intermediário): 79.46%
 Red (Menos recomendado): 10.68%
 
 
 Bairro: Borough Park
 Total de imóveis: 136
-Yellow (Bom para aluguel): 9.56%
+Green (Ótimo para aluguel): 0.74%
+Yellow (Bom para aluguel): 8.82%
 Orange (Intermediário): 88.97%
 Red (Menos recomendado): 1.47%
 
@@ -651,21 +689,24 @@ Red (Menos recomendado): 9.09%
 
 Bairro: Prospect Heights
 Total de imóveis: 357
-Yellow (Bom para aluguel): 8.96%
+Green (Ótimo para aluguel): 1.12%
+Yellow (Bom para aluguel): 7.84%
 Orange (Intermediário): 72.27%
 Red (Menos recomendado): 18.77%
 
 
 Bairro: Long Island City
 Total de imóveis: 537
-Yellow (Bom para aluguel): 8.94%
+Green (Ótimo para aluguel): 0.37%
+Yellow (Bom para aluguel): 8.57%
 Orange (Intermediário): 78.21%
 Red (Menos recomendado): 12.85%
 
 
 Bairro: Windsor Terrace
 Total de imóveis: 157
-Yellow (Bom para aluguel): 8.92%
+Green (Ótimo para aluguel): 1.27%
+Yellow (Bom para aluguel): 7.64%
 Orange (Intermediário): 72.61%
 Red (Menos recomendado): 18.47%
 
@@ -679,56 +720,64 @@ Red (Menos recomendado): 17.72%
 
 Bairro: Flatbush
 Total de imóveis: 621
-Yellow (Bom para aluguel): 8.86%
+Green (Ótimo para aluguel): 0.16%
+Yellow (Bom para aluguel): 8.70%
 Orange (Intermediário): 87.12%
 Red (Menos recomendado): 4.03%
 
 
 Bairro: Gravesend
 Total de imóveis: 68
-Yellow (Bom para aluguel): 8.82%
+Green (Ótimo para aluguel): 1.47%
+Yellow (Bom para aluguel): 7.35%
 Orange (Intermediário): 88.24%
 Red (Menos recomendado): 2.94%
 
 
 Bairro: East Flatbush
 Total de imóveis: 500
-Yellow (Bom para aluguel): 8.80%
+Green (Ótimo para aluguel): 0.60%
+Yellow (Bom para aluguel): 8.20%
 Orange (Intermediário): 85.20%
 Red (Menos recomendado): 6.00%
 
 
 Bairro: Inwood
 Total de imóveis: 252
-Yellow (Bom para aluguel): 8.73%
+Green (Ótimo para aluguel): 0.40%
+Yellow (Bom para aluguel): 8.33%
 Orange (Intermediário): 86.11%
 Red (Menos recomendado): 5.16%
 
 
 Bairro: Crown Heights
 Total de imóveis: 1564
-Yellow (Bom para aluguel): 8.57%
+Green (Ótimo para aluguel): 0.70%
+Yellow (Bom para aluguel): 7.86%
 Orange (Intermediário): 81.33%
 Red (Menos recomendado): 10.10%
 
 
 Bairro: Washington Heights
 Total de imóveis: 899
-Yellow (Bom para aluguel): 8.57%
+Green (Ótimo para aluguel): 0.22%
+Yellow (Bom para aluguel): 8.34%
 Orange (Intermediário): 86.21%
 Red (Menos recomendado): 5.23%
 
 
 Bairro: Bedford-Stuyvesant
 Total de imóveis: 3714
-Yellow (Bom para aluguel): 8.56%
+Green (Ótimo para aluguel): 0.62%
+Yellow (Bom para aluguel): 7.94%
 Orange (Intermediário): 84.01%
 Red (Menos recomendado): 7.43%
 
 
 Bairro: Bushwick
 Total de imóveis: 2465
-Yellow (Bom para aluguel): 8.48%
+Green (Ótimo para aluguel): 0.81%
+Yellow (Bom para aluguel): 7.67%
 Orange (Intermediário): 86.65%
 Red (Menos recomendado): 4.87%
 
@@ -756,7 +805,8 @@ Red (Menos recomendado): 4.02%
 
 Bairro: Midwood
 Total de imóveis: 109
-Yellow (Bom para aluguel): 8.26%
+Green (Ótimo para aluguel): 1.83%
+Yellow (Bom para aluguel): 6.42%
 Orange (Intermediário): 88.99%
 Red (Menos recomendado): 2.75%
 
@@ -770,7 +820,8 @@ Red (Menos recomendado): 7.69%
 
 Bairro: Astoria
 Total de imóveis: 900
-Yellow (Bom para aluguel): 7.67%
+Green (Ótimo para aluguel): 0.78%
+Yellow (Bom para aluguel): 6.89%
 Orange (Intermediário): 84.89%
 Red (Menos recomendado): 7.44%
 
@@ -798,7 +849,8 @@ Red (Menos recomendado): 24.14%
 
 Bairro: Bensonhurst
 Total de imóveis: 75
-Yellow (Bom para aluguel): 6.67%
+Green (Ótimo para aluguel): 1.33%
+Yellow (Bom para aluguel): 5.33%
 Orange (Intermediário): 92.00%
 Red (Menos recomendado): 1.33%
 
@@ -819,7 +871,8 @@ Red (Menos recomendado): 6.45%
 
 Bairro: Sunset Park
 Total de imóveis: 390
-Yellow (Bom para aluguel): 6.15%
+Green (Ótimo para aluguel): 0.77%
+Yellow (Bom para aluguel): 5.38%
 Orange (Intermediário): 85.38%
 Red (Menos recomendado): 8.46%
 
@@ -847,7 +900,8 @@ Red (Menos recomendado): 9.22%
 
 Bairro: Gowanus
 Total de imóveis: 247
-Yellow (Bom para aluguel): 5.67%
+Green (Ótimo para aluguel): 0.81%
+Yellow (Bom para aluguel): 4.86%
 Orange (Intermediário): 73.68%
 Red (Menos recomendado): 20.65%
 
@@ -889,7 +943,8 @@ Red (Menos recomendado): 5.00%
 
 Bairro: Williamsburg
 Total de imóveis: 3920
-Yellow (Bom para aluguel): 5.00%
+Green (Ótimo para aluguel): 0.08%
+Yellow (Bom para aluguel): 4.92%
 Orange (Intermediário): 74.80%
 Red (Menos recomendado): 20.20%
 
@@ -910,14 +965,16 @@ Red (Menos recomendado): 8.38%
 
 Bairro: Lower East Side
 Total de imóveis: 911
-Yellow (Bom para aluguel): 4.61%
+Green (Ótimo para aluguel): 0.11%
+Yellow (Bom para aluguel): 4.50%
 Orange (Intermediário): 68.72%
 Red (Menos recomendado): 26.67%
 
 
 Bairro: Greenpoint
 Total de imóveis: 1115
-Yellow (Bom para aluguel): 4.30%
+Green (Ótimo para aluguel): 0.18%
+Yellow (Bom para aluguel): 4.13%
 Orange (Intermediário): 80.72%
 Red (Menos recomendado): 14.98%
 
@@ -938,7 +995,8 @@ Red (Menos recomendado): 6.49%
 
 Bairro: Hell's Kitchen
 Total de imóveis: 1958
-Yellow (Bom para aluguel): 3.83%
+Green (Ótimo para aluguel): 0.15%
+Yellow (Bom para aluguel): 3.68%
 Orange (Intermediário): 60.27%
 Red (Menos recomendado): 35.90%
 
@@ -952,7 +1010,8 @@ Red (Menos recomendado): 1.82%
 
 Bairro: East Village
 Total de imóveis: 1853
-Yellow (Bom para aluguel): 3.62%
+Green (Ótimo para aluguel): 0.05%
+Yellow (Bom para aluguel): 3.56%
 Orange (Intermediário): 67.94%
 Red (Menos recomendado): 28.44%
 
@@ -966,7 +1025,8 @@ Red (Menos recomendado): 3.57%
 
 Bairro: Upper West Side
 Total de imóveis: 1971
-Yellow (Bom para aluguel): 3.55%
+Green (Ótimo para aluguel): 0.05%
+Yellow (Bom para aluguel): 3.50%
 Orange (Intermediário): 66.41%
 Red (Menos recomendado): 30.04%
 
@@ -1001,7 +1061,8 @@ Red (Menos recomendado): 9.38%
 
 Bairro: Upper East Side
 Total de imóveis: 1798
-Yellow (Bom para aluguel): 3.11%
+Green (Ótimo para aluguel): 0.11%
+Yellow (Bom para aluguel): 3.00%
 Orange (Intermediário): 70.02%
 Red (Menos recomendado): 26.86%
 
@@ -1078,7 +1139,8 @@ Red (Menos recomendado): 14.29%
 
 Bairro: Theater District
 Total de imóveis: 288
-Yellow (Bom para aluguel): 1.74%
+Green (Ótimo para aluguel): 0.35%
+Yellow (Bom para aluguel): 1.39%
 Orange (Intermediário): 50.00%
 Red (Menos recomendado): 48.26%
 
@@ -1120,7 +1182,8 @@ Red (Menos recomendado): 32.13%
 
 Bairro: Murray Hill
 Total de imóveis: 485
-Yellow (Bom para aluguel): 0.62%
+Green (Ótimo para aluguel): 0.21%
+Yellow (Bom para aluguel): 0.41%
 Orange (Intermediário): 55.05%
 Red (Menos recomendado): 44.33%
 
