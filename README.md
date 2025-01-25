@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ```plaintext
 📂 desafio-indicium
 ├── 📁 data                # Dados fornecidos para o desafio  
-├── 📁 models              # Modelos treinados e scripts relacionados  
+├── 📁 model              # Modelo salvo em .pkl
 ├── 📁 notebooks           # Notebooks com implementações e códigos auxiliares para a execução principal do projeto
     ├── 📁 analises        # Notebooks dedicados à análise detalhada das questões e requisitos do desafio
     ├── 📁 eda             # Notebooks com implementações auxiliares da análise exploratória de dados
@@ -72,7 +72,8 @@ pip install -r requirements.txt
   - statistics  
   - category_encoders  
   - folium   
-  - import_ipynb  
+  - import_ipynb 
+  - pickle 
 
 
  
