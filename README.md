@@ -69,10 +69,6 @@ pip install -r requirements.txt
 
 ---
 
-Claro! Aqui está o texto atualizado com a inclusão do versionamento Git:  
-
----
-
 ## Ferramentas Utilizadas  
 
 - **Linguagem:** Python  
