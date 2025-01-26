@@ -24,6 +24,8 @@ Realizar uma análise detalhada para entender as características das variáveis
 - O número mínimo de noites e a disponibilidade ao longo do ano impactam o preço?  
 - Existe algum padrão no texto do nome do local para imóveis de maior valor?  
 
+> **Nota:** As cores utilizadas nos gráficos desta análise foram cuidadosamente escolhidas para refletir a identidade visual da Indicium, garantindo coerência estética e comunicacional.
+
 ---
 
 ### 2. **Modelagem Preditiva de Preços**  
@@ -45,8 +47,14 @@ pip install -r requirements.txt
 
 ---
 
+## Relatório de Análises  
+- **Resumo das análises:** Um resumo das principais descobertas e insights está disponível no [relatório final](https://github.com/beatrizalmeidaf/desafio-indicium/relatorio/LH_CD_BEATRIZALMEIDAFELICIO.pdf).  
+- **Análises detalhadas:** As análises mais completas podem ser consultadas diretamente no código disponível nesse repositório.
+
+---
+
 ## Estrutura do Repositório  
-```plaintext
+
 📂 desafio-indicium
 ├── 📁 data                # Dados fornecidos para o desafio  
 ├── 📁 model               # Modelo salvo em .pkl
@@ -56,7 +64,7 @@ pip install -r requirements.txt
 ├── 📄 main.ipynb          # Jupyter notebook principal  
 ├── 📄 README.md           # Documentação do projeto 
 └── 📄 requirements.txt    # Dependências necessárias para execução do projeto  
-```  
+ 
 
 ---
 
@@ -74,6 +82,4 @@ pip install -r requirements.txt
   - folium   
   - import_ipynb 
   - pickle 
-
-
  

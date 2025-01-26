@@ -1,4 +1,4 @@
-Análise de Bairros para Aluguel (Ordenados por Green e Yellow):
+Análise de Bairros para Aluguel (Ordenado por Avaliação de Potencial Investimento):
 
 Bairro: Silver Lake
 Total de imóveis: 2
