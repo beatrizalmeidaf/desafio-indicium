@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ---
 
 ## Relatório de Análises  
-- **Resumo das análises:** Um resumo das principais descobertas e insights está disponível no [relatório final](https://github.com/beatrizalmeidaf/desafio-indicium/relatorio/LH_CD_BEATRIZALMEIDAFELICIO.pdf).  
+- **Resumo das análises:** Um resumo das principais descobertas e insights está disponível no [relatório final](https://github.com/beatrizalmeidaf/desafio-indicium/tree/main/relatorio/LH_CD_BEATRIZALMEIDAFELICIO.pdf).  
 - **Análises detalhadas:** As análises mais completas podem ser consultadas diretamente no código disponível nesse repositório.
 
 ---
@@ -61,6 +61,7 @@ pip install -r requirements.txt
 ├── 📁 notebooks           # Notebooks com implementações e códigos auxiliares para a execução principal do projeto
     ├── 📁 analises        # Notebooks dedicados à análise detalhada das questões e requisitos do desafio
     ├── 📁 eda             # Notebooks com implementações auxiliares da análise exploratória de dados
+├── 📁 relatorio           # Pasta onde está armazenado o relatório das análises
 ├── 📄 main.ipynb          # Jupyter notebook principal  
 ├── 📄 README.md           # Documentação do projeto 
 └── 📄 requirements.txt    # Dependências necessárias para execução do projeto  
@@ -82,4 +83,14 @@ pip install -r requirements.txt
   - folium   
   - import_ipynb 
   - pickle 
- 
+  - 
+ ---
+
+## Versionamento  
+Durante o desenvolvimento deste projeto utilizei o versionamento de código com **Git**, o que permitiu:
+- Rastrear o histórico de alterações;
+- Manter versões organizadas do código;
+- Colaborar e revisar o trabalho de forma eficiente.
+
+> **Observação:** O repositório atual reflete os commits realizados ao longo do projeto, garantindo transparência no processo de desenvolvimento.
+```
