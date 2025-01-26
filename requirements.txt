@@ -8,5 +8,4 @@ category_encoders
 folium
 sys
 os
-import_ipynb
 pickle
