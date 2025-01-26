@@ -69,6 +69,10 @@ pip install -r requirements.txt
 
 ---
 
+Claro! Aqui está o texto atualizado com a inclusão do versionamento Git:  
+
+---
+
 ## Ferramentas Utilizadas  
 
 - **Linguagem:** Python  
@@ -81,15 +85,6 @@ pip install -r requirements.txt
   - statistics  
   - category_encoders  
   - folium   
-  - import_ipynb 
-  - pickle 
-    
- ---
-
-## Versionamento  
-Durante o desenvolvimento deste projeto utilizei o versionamento de código com **Git**, o que permitiu:
-- Rastrear o histórico de alterações;
-- Manter versões organizadas do código;
-- Colaborar e revisar o trabalho de forma eficiente.
-
-> **Observação:** O repositório atual reflete os commits realizados ao longo do projeto, garantindo transparência no processo de desenvolvimento.
+  - import_ipynb  
+  - pickle  
+- **Versionamento:** Git  
