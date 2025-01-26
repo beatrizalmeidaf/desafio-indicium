@@ -53,9 +53,8 @@ pip install -r requirements.txt
 
 ---
 
+## Estrutura do Repositório
 ```markdown
-## Estrutura do Repositório  
-
 📂 desafio-indicium
 ├── 📁 data                # Dados fornecidos para o desafio  
 ├── 📁 model               # Modelo salvo em .pkl
