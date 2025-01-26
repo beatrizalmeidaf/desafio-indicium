@@ -53,6 +53,7 @@ pip install -r requirements.txt
 
 ---
 
+```markdown
 ## Estrutura do Repositório  
 
 📂 desafio-indicium
@@ -65,7 +66,7 @@ pip install -r requirements.txt
 ├── 📄 main.ipynb          # Jupyter notebook principal  
 ├── 📄 README.md           # Documentação do projeto 
 └── 📄 requirements.txt    # Dependências necessárias para execução do projeto  
- 
+```
 
 ---
 
