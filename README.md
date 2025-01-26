@@ -83,7 +83,7 @@ pip install -r requirements.txt
   - folium   
   - import_ipynb 
   - pickle 
-  - 
+    
  ---
 
 ## Versionamento  
