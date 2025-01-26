@@ -93,4 +93,3 @@ Durante o desenvolvimento deste projeto utilizei o versionamento de código com 
 - Colaborar e revisar o trabalho de forma eficiente.
 
 > **Observação:** O repositório atual reflete os commits realizados ao longo do projeto, garantindo transparência no processo de desenvolvimento.
-```
