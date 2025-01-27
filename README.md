@@ -86,8 +86,7 @@ pip install -r requirements.txt
   - scikit-learn  
   - statistics  
   - category_encoders  
-  - folium  
-  - import_ipynb  
+  - folium   
   - pickle  
 - **Versionamento:** Git  
 
