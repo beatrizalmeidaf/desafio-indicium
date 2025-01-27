@@ -6,6 +6,4 @@ scikit-learn
 statistics
 category_encoders
 folium
-sys
-os
 pickle
