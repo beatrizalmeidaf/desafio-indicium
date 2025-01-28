@@ -9,7 +9,7 @@ Nesses casos, também poderia remover os outliers, porém geraria mais valores n
 
 def price_outliers(data, column):
     """
-    Gera dois boxplots lado a lado para análise de outliers em uma coluna de preços:
+    Gera dois boxplots lado a lado para análise de outliers na coluna de preços:
     um antes e outro após o ajuste baseado no IQR.
 
     Parâmetros:

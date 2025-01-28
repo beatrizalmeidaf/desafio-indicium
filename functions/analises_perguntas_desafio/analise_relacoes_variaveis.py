@@ -1,4 +1,4 @@
-# Verificar se o número mínimo de noites e a disponibilidade ao longo do ano interferem no preço
+# Verifica se o número mínimo de noites e a disponibilidade ao longo do ano interferem no preço
 
 import matplotlib.pyplot as plt
 import seaborn as sns
