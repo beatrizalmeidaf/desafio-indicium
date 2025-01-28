@@ -7,3 +7,5 @@ statistics
 category_encoders
 folium
 pickle
+
+# O arquivo requirements.txt utiliza as últimas versões disponíveis das bibliotecas listadas, garantindo acesso às atualizações mais recentes
