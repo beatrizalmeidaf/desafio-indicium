@@ -49,12 +49,16 @@ Explicitar as etapas e escolhas envolvidas no processo de criação do modelo:
 ---
 
 ### 3. **Reprodutibilidade do Ambiente**  
-Para facilitar a execução dos códigos, crie e ative o ambiente virtual com os seguintes comandos:  
+Para facilitar a execução dos códigos, siga os passos abaixo:  
+
+1. Crie e ative o ambiente virtual com os seguintes comandos:  
 ```bash  
 conda create --name indicium  
 conda activate indicium  
 pip install -r requirements.txt  
 ```  
+
+2. Para rodar o projeto, basta executar o arquivo `main.ipynb`.  
 
 ---
 
